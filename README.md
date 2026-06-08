@@ -11,7 +11,7 @@
 
 ![RetailGPT Demo](https://github.com/user-attachments/assets/6d437d4d-e537-4f71-a0ae-4c01ca5f4a18)
 
-## 🎥 Demo Video
+## 🎥 Full Demo Video
 
 [![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-RetailGPT-red)](https://drive.google.com/file/d/17abSuwBPnby2LGjB8gD0wscXtD8ji9Ad/view?usp=drivesdk)
 
