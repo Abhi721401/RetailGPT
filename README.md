@@ -9,7 +9,7 @@
 ---
 # Short Demo Video
 
-![RetailGPT Demo]()
+![RetailGPT Demo](demo1.mp4)
 
 ## 🎥 Demo Video
 
